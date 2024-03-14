@@ -1,0 +1,13 @@
+requests
+time
+asyncio
+aiohttp
+aiofiles
+argparsepandas
+threading
+google-cloud-bigquery
+dbt-bigquery
+dbt-core
+dbt-extractor
+paramiko
+asyncssh
